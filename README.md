@@ -25,7 +25,7 @@ A machine learning project that builds a **personalized book recommendation engi
 Clone the repository:
 
 ```bash
-git clone https://github.com/srizoni-maity/book-recommender.git
+git clone https://github.com/Baishakhi-Sing/book-recommender.git
 cd book-recommender
 
 # Create a virtual environment (recommended):
